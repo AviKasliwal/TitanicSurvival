@@ -22,5 +22,5 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 **Embarked** : Where the passenger got on the ship (C - Cherbourg, S - Southampton, Q = Queenstown)     
 
 
-#### Result
+### Result
 I implemented Decision Tree from scratch and got a score of **77.990%** on submission to Kaggle. 
